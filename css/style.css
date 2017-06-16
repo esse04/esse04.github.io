@@ -1,0 +1,41 @@
+h1{
+	color:#842525;
+	font-weight:bold;
+}
+
+body{
+	background:#60b7c1;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+}
+
+header{
+	background:#022023;
+}
+
+li{
+	color:#444444;
+	font-family: 'Fugaz One', cursive;
+}
+
+.navbar-inverse{
+	background:darkblue;
+}
+
+.navbar-inverse .navbar-brand{
+	background: black;
+	color:white;
+	font-family: 'Lobster', cursive;
+}
+
+.navbar-inverse .navbar-nav li a{
+	color:white;
+}
+
+ol{
+	text-align: center;
+	margin-left:35%;
+	width:30%
+
+}
+
